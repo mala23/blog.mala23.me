@@ -3,5 +3,5 @@ Router.route('/', {
 });
 
 Router.route('/dashboard', {
-  name: 'dashboard'
+  name: 'dashboard',
 });
